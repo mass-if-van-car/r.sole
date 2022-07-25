@@ -1,3 +1,3 @@
-function aFunction(){
-    return 1;
+function aFunction(a){
+    return a;
 }
